@@ -1,0 +1,7 @@
+/Users/k/Documents/GitHub/Azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/MyFirstAzureWebApp
+/Users/k/Documents/GitHub/Azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/k/Documents/GitHub/Azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/appsettings.json
+/Users/k/Documents/GitHub/Azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/MyFirstAzureWebApp.dll
+/Users/k/Documents/GitHub/Azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/MyFirstAzureWebApp.deps.json
+/Users/k/Documents/GitHub/Azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/MyFirstAzureWebApp.runtimeconfig.json
+/Users/k/Documents/GitHub/Azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/MyFirstAzureWebApp.pdb

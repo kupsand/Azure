@@ -1,4 +1,5 @@
 {
     "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "bin/Release/net7.0/publish"
+    "appService.deploySubpath": "bin/Release/net7.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/3fcf326d-6efa-40ae-beb5-a0f335de76b5/AppServices/subscriptions/3fcf326d-6efa-40ae-beb5-a0f335de76b5/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/DotNETApp04"
 }
